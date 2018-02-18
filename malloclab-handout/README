@@ -1,14 +1,4 @@
-#############################
-# CMPSC473 Malloc Lab
-# Handout files for students
-#############################
 
-You will be writing all your code in mm.c. The only file you should
-modify and submit is mm.c. See malloclab.pdf for a detailed writeup.
-
-*******************************
-Building and testing your code
-*******************************
 To build your code, run "make".
 
 To run all the tests, run "./driver.pl".
